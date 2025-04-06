@@ -1,6 +1,6 @@
 # Fritz!Box Voicemail Tools (Web Scraper)
 
-Dieses Skript ermöglicht das Auflisten und Herunterladen von Voicemail-Nachrichten von einer AVM Fritz!Box über die Weboberfläche (Web-Scraping). Es ist eine Alternative für Fälle, in denen die TR-064 Schnittstelle nicht zuverlässig funktioniert oder gewünscht ist.
+Dieses Skript ermöglicht das Auflisten und Herunterladen von Voicemail-Nachrichten von einer AVM Fritz!Box über die Weboberfläche (Web-Scraping).
 
 **Language:** [English](#english) | [Deutsch](#deutsch)
 
