@@ -2,6 +2,8 @@
 
 Dieses Skript ermöglicht das Auflisten und Herunterladen von Voicemail-Nachrichten von einer AVM Fritz!Box über die Weboberfläche (Web-Scraping).
 
+Getestet mit Fritz!Box 7690 mit FRITZ!OS 8.02
+
 **Language:** [English](#english) | [Deutsch](#deutsch)
 
 ---
