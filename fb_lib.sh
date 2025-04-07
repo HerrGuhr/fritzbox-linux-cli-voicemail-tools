@@ -7,6 +7,8 @@
 #        - Session ID (SID) holen via Challenge-Response
 #        - SID abmelden
 #        - Logging-Funktionen (inkl. optionaler Debug-Ausgabe via VERBOSE=1)
+# Autor: Marc Guhr
+# Datum: 2025-04-07
 
 # === Logging Funktionen ===
 
