@@ -1,10 +1,5 @@
 # Fritz!Box Voicemail Tools (TR-064/XML)
 
-Version: 2.00
-Autor: Marc Guhr (<marc.guhr@gmail.com>)
-Repository: <https://github.com/HerrGuhr/fritzbox-voicemail-tools>
-Lizenz: MIT
-
 Ein Kommandozeilen-Skript (`fritzbox-voicemail-tools.sh`), um Voicemail-Nachrichten von einer AVM Fritz!Box über das TR-064 Protokoll aufzulisten und herunterzuladen.
 
 This is a command-line script (`fritzbox-voicemail-tools.sh`) to list and download voicemail messages from an AVM Fritz!Box using the TR-064 protocol.
