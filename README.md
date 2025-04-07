@@ -261,4 +261,3 @@ This project is licensed under the MIT License.
 ### Contact
 
 For questions or issues, please create an Issue in the GitHub repository.
-```
