@@ -4,6 +4,9 @@ Ein Kommandozeilen-Skript (`fritzbox-voicemail-tools.sh`), um Voicemail-Nachrich
 
 This is a command-line script (`fritzbox-voicemail-tools.sh`) to list and download voicemail messages from an AVM Fritz!Box using the TR-064 protocol.
 
+**Sprache:** [English](#english) | [Deutsch](#deutsch)
+
+## <a name="deutsch"></a>Deutsch 🇩🇪
 ---
 
 ## Features
@@ -138,7 +141,7 @@ License: MIT
 A command-line script (`fritzbox-voicemail-tools.sh`) to list and download voicemail messages from an AVM Fritz!Box using the TR-064 protocol.
 
 ---
-
+## <a name="english"></a>English 🇩🇪
 ### Features
 
 *   **List Messages (`--list`)**
